@@ -1,0 +1,2 @@
+Holiday mode: select type of training during holiday period
+Long distance: with speed section in or not
