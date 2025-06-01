@@ -1,0 +1,7 @@
+numpy
+pandas
+google.generativeai
+python-dotenv
+streamlit
+gradio-client
+openai
